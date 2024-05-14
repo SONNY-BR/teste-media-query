@@ -1,0 +1,6 @@
+/* aparelho em pé ou retrato (PORTRAIT) */
+
+body {
+    background-image: url(../img/retrato.jpg);
+    background-position: center bottom
+}

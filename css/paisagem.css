@@ -1,0 +1,6 @@
+/* aparelho deitado e/ou paisagem (LANDSCAPE) */
+
+body {
+    background-image: url(../img/paisagem.jpg);
+    background-position: center center;
+}
